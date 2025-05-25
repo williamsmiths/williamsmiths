@@ -57,6 +57,10 @@
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </p>
 
+<div align="center">
+<h2 align="left">🏆 GitHub Profile Trophy</h2>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img width=1920 src="https://github-profile-trophy.vercel.app/?username=williamsmiths&column=8&theme=darkhub&no-frame=true&no-bg=true"/></a>
+
 <h2 align="left">📊 GitHub Analytics</h2>
 <div align="center"> 
   <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=williamsmiths&show_icons=true&theme=tokyonight&hide_border=false&border_color=2196F3&border_radius=10"/>
